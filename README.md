@@ -9,7 +9,7 @@
 
 ## Languages
 - JavaScipt (Vue.js, JQuery, nodeJS)
-- HTML/CSS (UIKit)
+- HTML/CSS (UIKit, Less)
 - PHP (Laravel)
 - Python (numPy, Pandas, JSON, Jupyter)
 - C/C++
