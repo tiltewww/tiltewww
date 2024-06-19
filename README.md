@@ -8,9 +8,9 @@
 - BBCorp
 
 ## Languages
-- JavaScipt (Vue.js, JQuery, nodeJS)
+- JavaScipt (Vue.js, JQuery, Node.js, Nuxt.js)
 - HTML/CSS (UIKit, Less)
-- PHP (Laravel)
+- PHP (Laravel, LAMP)
 - Python (numPy, Pandas, JSON, Jupyter)
 - C/C++
 
