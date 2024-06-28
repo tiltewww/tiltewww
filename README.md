@@ -11,7 +11,7 @@
 - JavaScript (Vue.js, JQuery, Node.js, Nuxt.js)
 - HTML/CSS (UIKit, Less)
 - PHP (Laravel, LAMP)
-- Python (numPy, Pandas, JSON, Jupyter)
+- Python (Stack: Data Science)
 - C/C++
 
 ## Contact 
