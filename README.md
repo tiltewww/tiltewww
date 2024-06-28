@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on CTF-Tips
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning GoLang
 
 
 ## Projects
