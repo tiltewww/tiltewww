@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on CTF-Tips
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang / Assembler 
 
 
 ## Projects
