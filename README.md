@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GoLang / Assembler 
 
 ## Workstation 
-- PC (Fedora Linux 40)
+- PC (Linux Mint Cinnamon)
 - Laptop (Windows 11 Pro)
   
 ## Projects
