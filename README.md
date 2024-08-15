@@ -7,8 +7,7 @@
 - Laptop (Windows 11 Pro)
   
 ## Projects
-- CTF-Tips
-- BBCorp
+- xCTF
 
 ## Languages
 - JavaScript (Vue.js, JQuery, Node.js, Nuxt.js)
