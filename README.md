@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on CTF-Tips
-- 🌱 I’m currently learning GoLang / Assembler 
+- 🔭 I’m currently working on xCTF
+- 🌱 I’m currently learning Assembler 
 
 ## Workstation 
 - PC (Linux Mint Cinnamon)
