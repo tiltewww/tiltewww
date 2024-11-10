@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Assembler 
 
 ## Workstation 
-- PC (Linux Mint Cinnamon)
-- Laptop (Windows 11 Pro)
+- PC (MacOS Sequoia)
+- Laptop (MacOS Sequoia)
   
 ## Projects
 - xCTF
