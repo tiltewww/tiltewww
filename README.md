@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Assembler 
 
 ## Workstation 
-- PC (MacOS Sequoia)
-- Laptop (MacOS Sequoia)
+- Laptop (kubuntu 24.10)
   
 ## Projects
 - xCTF
