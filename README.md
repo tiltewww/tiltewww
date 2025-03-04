@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently work on microcontroller<br>I am currently learning x86<br>Working on Pop!_OS
+I am currently work on microcontroller<br>I am currently learning x86<br>
 
 
 # 💻 Tech Stack:
