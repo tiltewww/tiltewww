@@ -16,6 +16,6 @@
 
 ---
 
-![Snake animation](https://github.com/ваш_пользователь/ваш_репозиторий/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tiltewww/tiltewww/blob/output/github-contribution-grid-snake.svg)
 
 ---
