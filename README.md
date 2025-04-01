@@ -1,47 +1,21 @@
-<h2 align="center">I love Assembly and JS</h2>
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
+- ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) C
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) C++
+- ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat-square&logo=assembly&logoColor=white) Assembly
 
-###
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) Vue.js
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) Django
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiltewww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiltewww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- [Telegram](https://t.me/ваш_никнейм) 📱
+- [Discord](https://discord.com/users/ваш_идентификатор) 🎮
 
-###
+---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/143228874?v=4"  />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_пользователь&show_icons=true&theme=radical)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge" height="30" alt="webassembly logo"  />
-</div>
+![Snake animation](https://github.com/ваш_пользователь/ваш_репозиторий/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=tiltewww&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://t.me/t1ltewww" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tiltewww/tiltewww/output/snake.svg" alt="Snake animation" />
-
-###
+---
