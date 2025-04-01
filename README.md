@@ -24,7 +24,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_пользователь&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiltewww&show_icons=true&theme=radical)
 
 ---
 <br clear="both">
