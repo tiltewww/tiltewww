@@ -16,6 +16,6 @@
 
 ---
 
-![Snake animation](https://github.com/tiltewww/tiltewww/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/tiltewww/tiltewww/output/snake.svg" alt="Snake animation" />
