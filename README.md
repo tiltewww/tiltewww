@@ -1,6 +1,3 @@
-<h2 align="center">I love Assembly and JS</h2>
-
----
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat-square&logo=assembly&logoColor=white) 
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/143228874?v=4"  />
